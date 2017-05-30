@@ -10,8 +10,8 @@ import UIKit
 
 class WeatherTableCell: UITableViewCell {
     
-    @IBOutlet var timeLabel: UILabel?
-    @IBOutlet var weatherLabel: UILabel?
-    @IBOutlet var temperatureLabel: UILabel?
+    @IBOutlet weak var timeLabel: UILabel?
+    @IBOutlet weak var weatherLabel: UILabel?
+    @IBOutlet weak var temperatureLabel: UILabel?
     
 }
