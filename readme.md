@@ -16,3 +16,6 @@
  * Fix bug where UITableView is populated incorrectly when there are no more future weather windows for the current day
  * Finish implementing unit tests
  * Add UI tests
+
+### Notes
+ * SwiftyJSON, Alamofire, Nimble, Quick and Mockingjay CocoaPods have been checked in to make the project easier to build
